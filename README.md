@@ -1,4 +1,4 @@
-# RelojDigitalPython
+# Reloj Digital Con Interfaz Grafica En Python
 
 Para ejecutar y tenerlo como widget 
 
