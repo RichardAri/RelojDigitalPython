@@ -2,11 +2,11 @@
 
 Para ejecutar y tenerlo como widget 
 
-#Windows 
+# Windows 
 
 cambiar la extension .py a pyw
 
-#MacOS & Linux
+# MacOS & Linux
 
 Ejecutar desde terminal 
 
